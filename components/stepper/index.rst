@@ -102,6 +102,7 @@ Put this code into the configuration file on ESPHome for this device.
         acceleration: inf
         deceleration: inf
 
+To change the direction switch **pin_a** with **pin_b** and **pin_c** with **pin_d**
 
 Configuration variables:
 
